@@ -1,7 +1,6 @@
-## Hey, Dan, how’s the family?
+# Watercooler
+### Hey, Dan, how’s the family?
+### Susan, how did your daughter’s dance recital go?
+### So what are your plans for vacation this year?
 
-## Susan, how did your daughter’s dance recital go?
-
-## So what are your plans for vacation this year?
-
-![Build Status](https://github.com/incresql/incresql/workflows/Test/badge.svg)
+![Build Status](https://github.com/daniellestead/watercooler/workflows/Test/badge.svg)
