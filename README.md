@@ -3,3 +3,5 @@
 ## Susan, how did your daughter’s dance recital go?
 
 ## So what are your plans for vacation this year?
+
+![Build Status](https://github.com/incresql/incresql/workflows/Test/badge.svg)

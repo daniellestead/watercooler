@@ -74,10 +74,3 @@ jobs:
         with:
           command: fmt
           args: --all -- --check
-
-  licencecheck:
-    name: Licence Check
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: EmbarkStudios/cargo-deny-action@v1
